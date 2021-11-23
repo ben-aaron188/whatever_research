@@ -42,7 +42,7 @@ All meetings are held via Zoom. The link and access details to the meetings is i
 | 24 Nov 2021 | Wed | 12:30-13:30  | Arianna, Luisa    | (none: research update) |
 | 1 Dec 2021  | Wed | 12:30-13:30  | Teng Si, Bastiaan | (none: research update) |
 | 8 Dec 2021  | Wed | 12:30-13:30  | Biniyam, Daniel   | (none: research update) |
-| 15 Dec 2021 | Wed | 12:30-13:30  | Felix, Max        | tbc                     |
+| 15 Dec 2021 | Wed | 12:30-13:30  | Felix, Max        | [Bender et al., 2021](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922) | 
 | 12 Jan 2022 | Wed | 12:30-13:30  | tbc               | tbc                     |
 | 19 Jan 2022 | Wed | 12:30-13:30  | tbc               | tbc                     |
 | 26 Jan 2022 | Wed | 12:30-13:30  | tbc               | tbc                     |
