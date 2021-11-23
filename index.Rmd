@@ -27,7 +27,7 @@ If you're interested in getting involved (as a student, intern or project collab
 - Arianna Trozze (PhD student - _prosecuting financial crimes involving cryptocurrencies_)
 - Daniel Hammocks (PhD student - _horizon scanning with data science techniques_). [Daniel's website](https://danielhammocks.uk/)
 - Josh Kamps (PhD student - _cryptocurrency-related fraud_)
-- Isabelle van der Vegt (Project manager at WODC / Postdoc - topics: linguistic threat assessment, applied NLP)
+- Isabelle van der Vegt (Project manager at WODC / Postdoc - topics: linguistic threat assessment, applied NLP). [Isabelle's website](https://isabellevdv.github.io/)
 - Felix Soldner (Postdoc at GESIS / PhD student - topics: consumer fraud detection, methods of CSS). [Felix's website](http://fsoldner.net/)
 - Maximilian Mozes (PhD student - _adversarial machine learning for NLP_). [Max's website](http://mmozes.net/)
 - Bennett Kleinberg (topics - NLP for social+behavioural science, fundamentals of data science, text anonymisation, open science tools, deception detection). [Bennett's website](https://bkleinberg.net/)
