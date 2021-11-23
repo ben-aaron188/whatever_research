@@ -1,0 +1,54 @@
+---
+title: "Research group info"
+#author: "B Kleinberg"
+date: 'Updated: `r format(Sys.time(), "%d %B %Y")`' 
+output: 
+  html_document:
+    theme: default
+    toc: true
+    toc_float: true
+---
+
+
+We're a research group that works on topics around core issues of natural language processing, data science and applications thereof. For more detail on topics, see the projects and interests of the members listed below. All communication happens on our Element channel.
+
+In weekly meetings, we discuss ongoing research, pitch ideas or discuss a paper. The [timetable](#timetable) below is for reference of the current members.
+
+If you're interested in getting involved (as a student, intern or project collaborator), feel free to reach out to any of the [current members](#current).
+
+
+## Current members {#current}
+
+- Luisa Kindermann (BSc thesis - _semantic change networks at the individual level_)
+- Bastiaan Sizoo (BSc internship - _extreme adopters detection on niche online forums_)
+- Teng Si Lam (MSc internship - _explanatory modelling of emotional coping in the pandemic_)
+- Biniyam Gebeyehu (PhD student - _medical NLP to predict patients at risk_)
+- Meltem Ergün (BSc internship - _a priori sample size estimation for supervised learning problems_)
+- Arianna Trozze (PhD student - _prosecuting financial crimes involving cryptocurrencies_)
+- Daniel Hammocks (PhD student - _horizon scanning with data science techniques_). [Daniel's website](https://danielhammocks.uk/)
+- Josh Kamps (PhD student - _cryptocurrency-related fraud_)
+- Isabelle van der Vegt (Project manager at WODC / Postdoc - topics: linguistic threat assessment, applied NLP)
+- Felix Soldner (Postdoc at GESIS / PhD student - topics: consumer fraud detection, methods of CSS). [Felix's website](http://fsoldner.net/)
+- Maximilian Mozes (PhD student - _adversarial machine learning for NLP_). [Max's website](http://mmozes.net/)
+- Bennett Kleinberg (topics - NLP for social+behavioural science, fundamentals of data science, text anonymisation, open science tools, deception detection). [Bennett's website](https://bkleinberg.net/)
+
+
+## Timetable {#timetable}
+
+All meetings are held via Zoom. The link and access details to the meetings is in the Element group.
+
+| Date        | Day | Time (GMT+1) | Presenter(s)      | Reading                 |
+|-------------|-----|--------------|-------------------|-------------------------|
+| 24 Nov 2021 | Wed | 12:30-13:30  | Arianna, Luisa    | (none: research update) |
+| 1 Dec 2021  | Wed | 12:30-13:30  | Teng Si, Bastiaan | (none: research update) |
+| 8 Dec 2021  | Wed | 12:30-13:30  | Biniyam, Daniel   | (none: research update) |
+| 15 Dec 2021 | Wed | 12:30-13:30  | Felix, Max        | tbc                     |
+| 12 Jan 2022 | Wed | 12:30-13:30  | tbc               | tbc                     |
+| 19 Jan 2022 | Wed | 12:30-13:30  | tbc               | tbc                     |
+| 26 Jan 2022 | Wed | 12:30-13:30  | tbc               | tbc                     |
+
+
+## Joining
+
+Have a look at the current members and their work. Reach out to them directly or send an email to Bennett for joining the group for a research project.
+
