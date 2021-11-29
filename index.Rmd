@@ -20,7 +20,7 @@ If you're interested in getting involved (as a student, intern or project collab
 ## Current members {#current}
 
 - Luisa Kindermann (BSc thesis - _semantic change networks at the individual level_)
-- Bastiaan Sizoo (BSc internship - _extreme adopters detection on niche online forums_)
+- Bastiaan Sizoo (BSc internship - _linguistic meanings in online niche forums_)
 - Teng Si Lam (MSc internship - _explanatory modelling of emotional coping in the pandemic_)
 - Biniyam Gebeyehu (PhD student - _medical NLP to predict patients at risk_)
 - Meltem Ergün (BSc internship - _a priori sample size estimation for supervised learning problems_)
