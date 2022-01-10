@@ -39,12 +39,12 @@ All meetings are held via Zoom. The link and access details to the meetings is i
 
 | Date        | Day | Time (GMT+1) | Presenter(s)      | Reading                 |
 |-------------|-----|--------------|-------------------|-------------------------|
-| 24 Nov 2021 | Wed | 12:30-13:30  | Arianna, Luisa    | (none: research update) |
-| 1 Dec 2021  | Wed | 12:30-13:30  | Teng Si, Bastiaan | (none: research update) |
-| 8 Dec 2021  | Wed | 12:30-13:30  | Biniyam, Felix    | (none: research update) |
+| 24 Nov 2021 | Wed | 12:30-13:30  | Arianna, Luisa    | (none: research updates) |
+| 1 Dec 2021  | Wed | 12:30-13:30  | Teng Si, Bastiaan | (none: research updates) |
+| 8 Dec 2021  | Wed | 12:30-13:30  | Biniyam, Felix    | (none: research updates) |
 | 15 Dec 2021 | Wed | 12:30-13:30  | Max               | [Bender et al., 2021 - _On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?_](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922) | 
-| 12 Jan 2022 | Wed | 12:30-13:30  | tbc               | tbc                     |
-| 19 Jan 2022 | Wed | 12:30-13:30  | tbc               | tbc                     |
+| ~~12 Jan 2022~~ | ~~Wed~~ | ~~12:30-13:30~~  | ~~tbc~~               | ~~tbc~~                     |
+| 19 Jan 2022 | Wed | 12:30-13:30  | Luisa               | (none: research update)        |
 | 26 Jan 2022 | Wed | 12:30-13:30  | tbc               | tbc                     |
 
 
