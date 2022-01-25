@@ -20,10 +20,11 @@ If you're interested in getting involved (as a student, intern or project collab
 ## Current members {#current}
 
 - Nicola Rossberg (BSc thesis - _individualised language representation networks_)
+- Samareen Zubair (MSc internship - _researcher's degrees of freedom in text pre-processing_)
 - Marilu Miotto (MSc internship - _investigating grievances in a far-right online community_)
 - Florette Witzel (BSc internship - _adversarial attacks on face recognition systems_)
 - Luisa Kindermann (BSc thesis - _semantic change networks at the individual level_)
-- Bastiaan Sizoo (BSc internship - _linguistic meanings in online niche forums_)
+- Bastiaan Sizoo (BSc thesis - _linguistic meanings in online niche forums_)
 - Teng Si Lam (MSc internship - _explanatory modelling of emotional coping in the pandemic_)
 - Biniyam Gebeyehu (PhD student - _medical NLP to predict patients at risk_)
 - Meltem Ergün (BSc internship - _a priori sample size estimation for supervised learning problems_)
@@ -53,7 +54,7 @@ All meetings are held via Zoom. The link and access details to the meetings is i
 | 9 Feb 2022      | Wed     | 12:30-13:30     | Felix              | tbc                                                                                                                                                 |
 | 16 Feb 2022     | Wed     | 12:30-13:30     | Marilu, Nicola               | research updates                                                                                                                                                 |
 | 23 Feb 2022     | Wed     | 12:30-13:30     | Daniel               | tbc                                                                                                                                                 |
-| 9 Mar 2022      | Wed     | 12:30-13:30     | Meltem               | research update                                                                                                                                                 |
+| 9 Mar 2022      | Wed     | 12:30-13:30     | Meltem, Samareen               | research updates                                                                                                                                                 |
 | 16 Mar 2022     | Wed     | 12:30-13:30     | Biniyam               | tbc                                                                                                                                                 |
 | 23 Mar 2022     | Wed     | 12:30-13:30     | Arianna               | tbc                                                                                                                                                 |
 
