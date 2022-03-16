@@ -23,7 +23,6 @@ If you're interested in getting involved (as a student, intern or project collab
 - Nicola Rossberg (BSc thesis - _individualised language representation networks_)
 - Samareen Zubair (MSc internship - _researcher's degrees of freedom in text pre-processing_)
 - Marilu Miotto (MSc internship - _investigating grievances in a far-right online community_)
-- Luisa Kindermann (BSc thesis - _semantic change networks at the individual level_)
 - Bastiaan Sizoo (BSc thesis - _linguistic meanings in online niche forums_)
 - Biniyam Gebeyehu (PhD student - _medical NLP to predict patients at risk_)
 - Meltem Ergün (BSc internship - _a priori sample size estimation for supervised learning problems_)
@@ -60,12 +59,32 @@ All meetings are held via Zoom. The link and access details to the meetings is i
 | 11 May 2022     | Wed     | 12:30-13:30     | Arianna           | tbc                                                                                                                                                  |
 | 18 May 2022     | Wed     | 12:30-13:30     | Nicola            | research update                                                                                                                                      |
 
-## Alumni since 2021
+## Alumni
 
-- Florette Witzel (BSc internship - _adversarial attacks on face recognition systems_)
-- Josh Kamps (PhD student - _cryptocurrency-related fraud_)
-- Isabelle van der Vegt (Project manager at WODC / Postdoc - topics: linguistic threat assessment, applied NLP). [Isabelle's website](https://isabellevdv.github.io/)
-- Teng Si Lam (MSc internship - _explanatory modelling of emotional coping in the pandemic_)
+_This list contains some alumni since 2018. Projects from 2015-2018 are not listed._
+
+| Name                  | Role        | Topic                                                                          | Moved on to                              |
+|-----------------------|-------------|--------------------------------------------------------------------------------|------------------------------------------|
+| Luisa Kindermann      | BSc thesis  | semantic change networks at the individual level                               | /                                        |
+| Isabelle van der Vegt | PhD student | linguistic threat assessment                                                   | Project manager at WODC                  |
+| Teng Si Lam           | MSc intern  | explanatory modelling of emotional coping in the pandemic                      | /                                        |
+| Florette Witzel       | BSc intern  | adversarial attacks on face recognition systems                                | BSc intern at UCL                        |
+| Josh Kamps            | PhD student | cryptocurrency-related fraud                                                   | /                                        |
+| Meltem Ergün          | BSc thesis  | sample size estimation for supervised learning                                 | research intern                          |
+| Jan Ohlenmacher       | MSc intern  | using text data to learn about writer personality                              | /                                        |
+| Ema Mauko             | BSc thesis  | interplay of toxicity in video content and user comments on YT                 | Imperial College London                  |
+| Sammie Kwong          | BSc thesis  | experimental induction of anger for ground truth text datasets                 | JP Morgan                                |
+| Ana Wilmer            | BSc thesis  | extreme adopters in a far-right online community                               | Imperial College London                  |
+| Tom Kay               | MSc thesis  | a data-driven approach to detecting aggression in music lyrics                 | Intelligence analyst                     |
+| Xuejiao Tian          | MSc thesis  | examining Corona-related hate speech on YT                                     |                                          |
+| Antonis Anagnostou    | MSc thesis  | a cross-domain mega classifier for targeted hate speech detection              | Microsoft                                |
+| Vlad Pasca            | BSc thesis  | analysing linguistic features of perturbed emails from an adversarial attack   | Data Scientist at UK Ministry of Justice |
+| Satoshi Takemoto      | BSc thesis  | quantitative text analysis to study organised crime in Japan                   | Own company                              |
+| Barbara Balogoun      | MSc thesis  | understanding the behavioural patterns of clickbait on YT                      | Intelligence analyst                     |
+| Lily Greenhalgh       | MSc thesis  | analysing non-sexually explicity imagery in eliciting sexual comments online   | National Crime Agency                    |
+| Lauren Abrahams       | MSc thesis  | disentangling types of human trafficking                                       | Intelligence analyst                     |
+| Aliai Eusebi          | BSc thesis  | a network approach to understanding financial secrecy around development funds | PhD student at UCL                       |
+
 
 
 ## Joining
