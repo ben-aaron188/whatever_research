@@ -58,8 +58,8 @@ All meetings are held via Zoom. The link and access details to the meetings is i
 | 4 May 2022      | Wed     | 12:30-13:30     | Arianna               | research update                                                                                                                                                  |
 | 11 May 2022     | Wed     | 12:30-13:30     | Samareen           | research update                                                                                                                                                  |
 | 18 May 2022     | Wed     | 12:30-13:30     | Nicola            | research update                                                                                                                                      |
-| 1 June 2022     | Wed     | 12:30-13:30     | Marilu            | research update                                                                                                                                      |
-| 8 June 2022     | Wed     | 12:30-13:30     | Bastiaan            | research update                                                                                                                                      |
+| ~~1 June 2022~~     | ~~Wed~~     | ~~12:30-13:30~~     | ~~Marilu~~            | ~~research update~~                                                                                                                                      |
+| 8 June 2022     | Wed     | 12:30-13:30     | tbc            | tbc                                                                                                                                      |
 | 15 June 2022     | Wed     | 12:30-13:30     | Felix            | tbc                                                                                                                                      |
 | 22 June 2022     | Wed     | 12:30-13:30     | tbc            | tbc                                                                                                                                      |
 
