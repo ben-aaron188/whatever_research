@@ -21,6 +21,7 @@ If you're interested in getting involved (as a student, intern or project collab
 
 - Gaspar Lukacs (Postdoc - _tidystats project_) [Gaspar's website](https://gasparl.github.io/)
 - Nicola Rossberg (BSc thesis - _individualised language representation networks_)
+- Tra Le (MSc internship - _assessing the effect of peer-review with NLP methods_)
 - Samareen Zubair (MSc internship - _researcher's degrees of freedom in text pre-processing_)
 - Marilu Miotto (MSc internship - _investigating grievances in a far-right online community_)
 - Bastiaan Sizoo (BSc thesis - _linguistic meanings in online niche forums_)
@@ -48,7 +49,7 @@ All meetings are held via Zoom. The link and access details to the meetings is i
 | 19 Jan 2022     | Wed     | 12:30-13:30     | Bennett           | [Hofman et al., 2021 - _Integrating explanation and prediction in computational social science_](https://www.nature.com/articles/s41586-021-03659-0) |
 | 26 Jan 2022     | Wed     | 12:30-13:30     | Luisa             | research update                                                                                                                                      |
 | 2 Feb 2022      | Wed     | 12:30-13:30     | Teng-Si, Florette | research updates                                                                                                                                     |
-| 9 Feb 2022      | Wed     | 12:30-13:30     | Felix             | [Mitchell et al., 2019 - Model Cards for Model Reporting](https://arxiv.org/pdf/1810.03993.pdf)                                                      |
+| 9 Feb 2022      | Wed     | 12:30-13:30     | Felix             | [Mitchell et al., 2019 - _Model Cards for Model Reporting_](https://arxiv.org/pdf/1810.03993.pdf)                                                    |
 | 16 Feb 2022     | Wed     | 12:30-13:30     | Marilu, Nicola    | research updates                                                                                                                                     |
 | 23 Feb 2022     | Wed     | 12:30-13:30     | Daniel            | research update                                                                                                                                      |
 | 9 Mar 2022      | Wed     | 12:30-13:30     | Meltem, Samareen  | research updates                                                                                                                                     |
@@ -61,10 +62,11 @@ All meetings are held via Zoom. The link and access details to the meetings is i
 | 18 May 2022     | Wed     | 12:30-13:30     | Nicola            | research update                                                                                                                                      |
 | ~~1 June 2022~~ | ~~Wed~~ | ~~12:30-13:30~~ | ~~Marilu~~        | ~~research update~~                                                                                                                                  |
 | 8 June 2022     | Wed     | 11:30-12:30     | Marilu            | research update                                                                                                                                      |
-| 15 June 2022    | Wed     | 10:00-11:00     | Bennett               | [Lemoine, 2022 - Is LaMDA Sentient? — an Interview](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917)                                                                                                                                      |
+| 15 June 2022    | Wed     | 10:00-11:00     | Bennett           | [Lemoine, 2022 - Is LaMDA Sentient? — an Interview](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917)                  |
 | 23 June 2022    | Thurs   | 11:00-12:00     | Felix             | research update                                                                                                                                      |
-| 28 June 2022    | Tues    | 11:00-12:00     | tbc               | tbc                                                                                                                                                  |
-
+| 28 June 2022    | Tues    | 11:00-12:00     | all               | Follow-up discussion on Google's Lamda model                                                                                                         |
+| SUMMER BREAK    |         |                 |                   |                                                                                                                                                      |
+| 2 Sept 2022     | Fri     | 10:00-11:00     | Felix             | conference talk                                                                                                                                      |
 
 ## Alumni
 
@@ -73,7 +75,7 @@ _This list contains some alumni since 2018. Projects from 2015-2018 are not list
 | Name                  | Role        | Topic                                                                          | Moved on to                              |
 |-----------------------|-------------|--------------------------------------------------------------------------------|------------------------------------------|
 | Luisa Kindermann      | BSc thesis  | semantic change networks at the individual level                               | /                                        |
-| Isabelle van der Vegt | PhD student | linguistic threat assessment                                                   | Project manager at WODC                  |
+| Isabelle van der Vegt | PhD student | linguistic threat assessment                                                   | Assistant Prof. at Utrecht University                  |
 | Teng Si Lam           | MSc intern  | explanatory modelling of emotional coping in the pandemic                      | /                                        |
 | Florette Witzel       | BSc intern  | adversarial attacks on face recognition systems                                | BSc intern at UCL                        |
 | Josh Kamps            | PhD student | cryptocurrency-related fraud                                                   | /                                        |
