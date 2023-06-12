@@ -10,7 +10,7 @@ output:
 ---
 
 
-We're a research group that works on topics around core issues of natural language processing, data science and applications thereof. For more detail on topics, see the projects and interests of the members listed below. All communication happens on our Element channel.
+We're a research group that works on topics around behavioural inference, core issues of natural language processing, data science and applications thereof. For more detail on topics, see the projects and interests of the members listed below. All communication happens on our Element channel.
 
 In weekly meetings, we discuss ongoing research, pitch ideas or discuss a paper. The [timetable](#timetable) below is for reference of the current members.
 
@@ -19,54 +19,65 @@ If you're interested in getting involved (as a student, intern or project collab
 
 ## Current members {#current}
 
-- Gaspar Lukacs (Postdoc - _tidystats project_) [Gaspar's website](https://gasparl.github.io/)
-- Nicola Rossberg (BSc thesis - _individualised language representation networks_)
-- Tra Le (MSc internship - _assessing the effect of peer-review with NLP methods_)
-- Samareen Zubair (MSc internship - _researcher's degrees of freedom in text pre-processing_)
-- Marilu Miotto (MSc internship - _investigating grievances in a far-right online community_)
-- Bastiaan Sizoo (BSc thesis - _linguistic meanings in online niche forums_)
-- Biniyam Gebeyehu (PhD student - _medical NLP to predict patients at risk_)
-- Meltem Ergün (BSc internship - _a priori sample size estimation for supervised learning problems_)
-- Arianna Trozze (PhD student - _prosecuting financial crimes involving cryptocurrencies_)
-- Daniel Hammocks (PhD student - _horizon scanning with data science techniques_). [Daniel's website](https://danielhammocks.uk/)
-- Felix Soldner (Postdoc at GESIS / PhD student - topics: consumer fraud detection, methods of CSS). [Felix's website](http://fsoldner.net/)
-- Maximilian Mozes (PhD student - _adversarial machine learning for NLP_). [Max's website](http://mmozes.net/)
-- Bennett Kleinberg (topics - NLP for social+behavioural science, fundamentals of data science, text anonymisation, open science tools, deception detection). [Bennett's website](https://bkleinberg.net/)
+- Nicola Rossberg (_individualised language representation networks_)
+- Marilu Miotto (_machine thinking fast and slow_)
+- Bastiaan Sizoo (_linguistic meanings in online niche forums_)
+- Biniyam Gebeyehu (_medical NLP to predict patients at risk_)
+- Arianna Trozze (_prosecuting financial crimes involving cryptocurrencies_)
+- Daniel Hammocks (_horizon scanning with data science techniques_). [Daniel's website](https://danielhammocks.uk/)
+- Felix Soldner (_consumer fraud detection_). [Felix's website](http://fsoldner.net/)
+- Maximilian Mozes (_adversarial machine learning for NLP_). [Max's website](http://mmozes.net/)
+- Bennett Kleinberg (topics - behavioural inference, NLP for social+behavioural science, fundamentals of data science, text anonymisation, deception detection). [Bennett's website](https://bkleinberg.net/)
 
 
 ## Timetable {#timetable}
 
-All meetings are held via Zoom. The link and access details to the meetings is in the Element group.
+All meetings are held in a hybrid setting (on campus + Zoom). The link and access details to the meetings are shared in the Element group.
 
 
-| Date            | Day     | Time (GMT+1)    | Presenter(s)      | Reading                                                                                                                                              |
-|-----------------|---------|-----------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 24 Nov 2021     | Wed     | 12:30-13:30     | Arianna, Luisa    | research updates                                                                                                                                     |
-| 1 Dec 2021      | Wed     | 12:30-13:30     | Teng Si, Bastiaan | research updates                                                                                                                                     |
-| 8 Dec 2021      | Wed     | 12:30-13:30     | Biniyam, Felix    | research updates                                                                                                                                     |
-| 15 Dec 2021     | Wed     | 12:30-13:30     | Max               | [Bender et al., 2021 - _On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?_](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)  |
-| ~~12 Jan 2022~~ | ~~Wed~~ | ~~12:30-13:30~~ | ~~tbc~~           | ~~tbc~~                                                                                                                                              |
-| 19 Jan 2022     | Wed     | 12:30-13:30     | Bennett           | [Hofman et al., 2021 - _Integrating explanation and prediction in computational social science_](https://www.nature.com/articles/s41586-021-03659-0) |
-| 26 Jan 2022     | Wed     | 12:30-13:30     | Luisa             | research update                                                                                                                                      |
-| 2 Feb 2022      | Wed     | 12:30-13:30     | Teng-Si, Florette | research updates                                                                                                                                     |
-| 9 Feb 2022      | Wed     | 12:30-13:30     | Felix             | [Mitchell et al., 2019 - _Model Cards for Model Reporting_](https://arxiv.org/pdf/1810.03993.pdf)                                                    |
-| 16 Feb 2022     | Wed     | 12:30-13:30     | Marilu, Nicola    | research updates                                                                                                                                     |
-| 23 Feb 2022     | Wed     | 12:30-13:30     | Daniel            | research update                                                                                                                                      |
-| 9 Mar 2022      | Wed     | 12:30-13:30     | Meltem, Samareen  | research updates                                                                                                                                     |
-| 16 Mar 2022     | Wed     | 12:30-13:30     | Biniyam           | tbc                                                                                                                                                  |
-| ~~23 Mar 2022~~ | ~~Wed~~ | ~~12:30-13:30~~ | ~~Arianna~~       | ~~tbc~~                                                                                                                                              |
-| 7 April 2022    | Wed     | 12:30-13:30     | Gaspar            | project intro                                                                                                                                        |
-| 20 April 2022   | Wed     | 12:30-13:30     | Marilu            | research update                                                                                                                                      |
-| 4 May 2022      | Wed     | 12:30-13:30     | Arianna           | research update                                                                                                                                      |
-| 11 May 2022     | Wed     | 12:30-13:30     | Samareen          | research update                                                                                                                                      |
-| 18 May 2022     | Wed     | 12:30-13:30     | Nicola            | research update                                                                                                                                      |
-| ~~1 June 2022~~ | ~~Wed~~ | ~~12:30-13:30~~ | ~~Marilu~~        | ~~research update~~                                                                                                                                  |
-| 8 June 2022     | Wed     | 11:30-12:30     | Marilu            | research update                                                                                                                                      |
-| 15 June 2022    | Wed     | 10:00-11:00     | Bennett           | [Lemoine, 2022 - Is LaMDA Sentient? — an Interview](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917)                  |
-| 23 June 2022    | Thurs   | 11:00-12:00     | Felix             | research update                                                                                                                                      |
-| 28 June 2022    | Tues    | 11:00-12:00     | all               | Follow-up discussion on Google's Lamda model                                                                                                         |
-| SUMMER BREAK    |         |                 |                   |                                                                                                                                                      |
-| 2 Sept 2022     | Fri     | 10:00-11:00     | Felix             | conference talk                                                                                                                                      |
+| Date            | Day     | Time (GMT+1)    | Presenter(s)      | Reading                                                                                                                                                                                                                                    |
+|-----------------|---------|-----------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 24 Nov 2021     | Wed     | 12:30-13:30     | Arianna, Luisa    | research updates                                                                                                                                                                                                                           |
+| 1 Dec 2021      | Wed     | 12:30-13:30     | Teng Si, Bastiaan | research updates                                                                                                                                                                                                                           |
+| 8 Dec 2021      | Wed     | 12:30-13:30     | Biniyam, Felix    | research updates                                                                                                                                                                                                                           |
+| 15 Dec 2021     | Wed     | 12:30-13:30     | Max               | [Bender et al., 2021 - _On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?_](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)                                                                                        |
+| ~~12 Jan 2022~~ | ~~Wed~~ | ~~12:30-13:30~~ | ~~tbc~~           | ~~tbc~~                                                                                                                                                                                                                                    |
+| 19 Jan 2022     | Wed     | 12:30-13:30     | Bennett           | [Hofman et al., 2021 - _Integrating explanation and prediction in computational social science_](https://www.nature.com/articles/s41586-021-03659-0)                                                                                       |
+| 26 Jan 2022     | Wed     | 12:30-13:30     | Luisa             | research update                                                                                                                                                                                                                            |
+| 2 Feb 2022      | Wed     | 12:30-13:30     | Teng-Si, Florette | research updates                                                                                                                                                                                                                           |
+| 9 Feb 2022      | Wed     | 12:30-13:30     | Felix             | [Mitchell et al., 2019 - _Model Cards for Model Reporting_](https://arxiv.org/pdf/1810.03993.pdf)                                                                                                                                          |
+| 16 Feb 2022     | Wed     | 12:30-13:30     | Marilu, Nicola    | research updates                                                                                                                                                                                                                           |
+| 23 Feb 2022     | Wed     | 12:30-13:30     | Daniel            | research update                                                                                                                                                                                                                            |
+| 9 Mar 2022      | Wed     | 12:30-13:30     | Meltem, Samareen  | research updates                                                                                                                                                                                                                           |
+| 16 Mar 2022     | Wed     | 12:30-13:30     | Biniyam           | tbc                                                                                                                                                                                                                                        |
+| ~~23 Mar 2022~~ | ~~Wed~~ | ~~12:30-13:30~~ | ~~Arianna~~       | ~~tbc~~                                                                                                                                                                                                                                    |
+| 7 April 2022    | Wed     | 12:30-13:30     | Gaspar            | project intro                                                                                                                                                                                                                              |
+| 20 April 2022   | Wed     | 12:30-13:30     | Marilu            | research update                                                                                                                                                                                                                            |
+| 4 May 2022      | Wed     | 12:30-13:30     | Arianna           | research update                                                                                                                                                                                                                            |
+| 11 May 2022     | Wed     | 12:30-13:30     | Samareen          | research update                                                                                                                                                                                                                            |
+| 18 May 2022     | Wed     | 12:30-13:30     | Nicola            | research update                                                                                                                                                                                                                            |
+| ~~1 June 2022~~ | ~~Wed~~ | ~~12:30-13:30~~ | ~~Marilu~~        | ~~research update~~                                                                                                                                                                                                                        |
+| 8 June 2022     | Wed     | 11:30-12:30     | Marilu            | research update                                                                                                                                                                                                                            |
+| 15 June 2022    | Wed     | 10:00-11:00     | Bennett           | [Lemoine, 2022 - Is LaMDA Sentient? — an Interview](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917)                                                                                                        |
+| 23 June 2022    | Thurs   | 11:00-12:00     | Felix             | research update                                                                                                                                                                                                                            |
+| 28 June 2022    | Tues    | 11:00-12:00     | all               | Follow-up discussion on Google's Lamda model                                                                                                                                                                                               |
+| SUMMER BREAK    |         |                 |                   |                                                                                                                                                                                                                                            |
+| 2 Sept 2022     | Fri     | 10:00-11:00     | Felix             | conference talk                                                                                                                                                                                                                            |
+| 29 Oct 2022     | Fri     | 10:00-11:00     | Tra               | research update                                                                                                                                                                                                                            |
+| 11 Nov 2022     | Fri     | 10:00-11:00     | Nicola            | research update                                                                                                                                                                                                                            |
+| 16 Nov 2022     | Wed     | 15:00-16:00     | all               | review of conference papers                                                                                                                                                                                                                |
+| 2 Dec 2022      | Fri     | 10:00-11:00     | all               | brainstorming ideas                                                                                                                                                                                                                        |
+| 9 Dec 2022      | Fri     | 10:00-11:00     | Marilu            | research proposal                                                                                                                                                                                                                          |
+| 9 Feb 2023      | Thurs   | 12:00-13:00     | Samareen          | research update                                                                                                                                                                                                                            |
+| 15 Feb 2023     | Wed     | 14:00-15:00     | Bastiaan          | research update                                                                                                                                                                                                                            |
+| 1 Mar 2023      | Wed     | 14:00-15:00     | Marilu            | research update                                                                                                                                                                                                                            |
+| 8 Mar 2023      | Wed     | 14:00-15:00     | Max               | [Mozes et al., 2023, Towards Agile Text Classifiers for Everyone](https://arxiv.org/abs/2302.06541) and [Mozes et al., 2023, Gradient-Based Automated Iterative Recovery for Parameter-Efficient Tuning](https://arxiv.org/abs/2302.06598) |
+| 15 Mar 2023     | Wed     | 14:00-15:00     | Rasoul            | research update                                                                                                                                                                                                                            |
+| 22 Mar 2023     | Wed     | 14:00-15:00     | all               | general discussion                                                                                                                                                                                                                         |
+| 2 May 2023      | Tues    | 15:00-16:00     | all               | paper discussion: [Togelius & Yannakakis, 2023, Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://arxiv.org/pdf/2304.06035.pdf)                                                                                  |
+| 16 May 2023     | Tues    | 15:00-16:30     | all               | mock viva Felix                                                                                                                                                                                                                            |
+| 6 June 2023     | Tues    | 15:00-16:00     | Marilu            | research update                                                                                                                                                                                                                            |
+| 13 June 2023    | Tues    | 10:00-11:00     | Biniyam           | research update and talk prep.                                                                                                                                                                                                             |
 
 ## Alumni
 
@@ -74,8 +85,11 @@ _This list contains some alumni since 2018. Projects from 2015-2018 are not list
 
 | Name                  | Role        | Topic                                                                          | Moved on to                              |
 |-----------------------|-------------|--------------------------------------------------------------------------------|------------------------------------------|
+| Samareen Zubair       | MSc intern  | researcher's degrees of freedom in text pre-processing                         | /                                        |
+| Tra Le                | MSc intern  | assessing the effect of peer-review with NLP methods                           | /                                        |
+| Gaspar Lukacs         | Postdoc     | tidystats project                                                              | Postdoc at Uni Konstanz                  |
 | Luisa Kindermann      | BSc thesis  | semantic change networks at the individual level                               | /                                        |
-| Isabelle van der Vegt | PhD student | linguistic threat assessment                                                   | Assistant Prof. at Utrecht University                  |
+| Isabelle van der Vegt | PhD student | linguistic threat assessment                                                   | Assistant Prof. at Utrecht University    |
 | Teng Si Lam           | MSc intern  | explanatory modelling of emotional coping in the pandemic                      | /                                        |
 | Florette Witzel       | BSc intern  | adversarial attacks on face recognition systems                                | BSc intern at UCL                        |
 | Josh Kamps            | PhD student | cryptocurrency-related fraud                                                   | /                                        |
@@ -93,8 +107,6 @@ _This list contains some alumni since 2018. Projects from 2015-2018 are not list
 | Lily Greenhalgh       | MSc thesis  | analysing non-sexually explicity imagery in eliciting sexual comments online   | National Crime Agency                    |
 | Lauren Abrahams       | MSc thesis  | disentangling types of human trafficking                                       | Intelligence analyst                     |
 | Aliai Eusebi          | BSc thesis  | a network approach to understanding financial secrecy around development funds | PhD student at UCL                       |
-
-
 
 ## Joining
 
