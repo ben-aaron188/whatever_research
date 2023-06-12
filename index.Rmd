@@ -23,6 +23,7 @@ If you're interested in getting involved (as a student, intern or project collab
 - Marilu Miotto (_machine thinking fast and slow_)
 - Bastiaan Sizoo (_linguistic meanings in online niche forums_)
 - Biniyam Gebeyehu (_medical NLP to predict patients at risk_)
+- Rasoul Norouzi Nikjeh (_text-mining methods for theory development in social science research_)
 - Arianna Trozze (_prosecuting financial crimes involving cryptocurrencies_)
 - Daniel Hammocks (_horizon scanning with data science techniques_). [Daniel's website](https://danielhammocks.uk/)
 - Felix Soldner (_consumer fraud detection_). [Felix's website](http://fsoldner.net/)
